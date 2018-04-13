@@ -1,3 +1,13 @@
+@font-face {
+    font-family:'codePredator';
+    src: url('../fonts/CodePredators-Regular.ttf');
+    font-weight:bold;
+    
+}
+h1 {
+    font-family:'codePredator';
+}
+
 * {
     background-color:#EDEDED;
     margin:0 auto;
